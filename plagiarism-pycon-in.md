@@ -1,4 +1,4 @@
-## Prevenint Plagiarism at PyCon-India
+## Prevening Plagiarism at PyCon-India
 
 ### Basic Rules
 
@@ -15,7 +15,7 @@
   (by adding to the UI in Junction, for example).
 - A software based plagiarism check to be run on all submitted proposals.
 - Authors whose content is flagged as plagiarised should be informed and given a chance to explain. 
-  This is to eliminate chances of mistakes on part of the software.
+  (to eliminate chances of mistakes on part of the software)
 - Proposals with plagiarised content be rejected and deleted. Authors be served warning.
 
 #### On selection
@@ -33,10 +33,10 @@
   (CFP-site/main-website/archives etc).
 - The author should be informed, and be given a chance to explain
 - The CFP workgroup, along with the organisers should discuss and decide on the claim.
-  If the content seems plagiarised beyond doubt, it should be permanently deleted from all websites
-  If the submitter seems wilful, s/he should be added to a ban list
-  If the instance seems to be a level-3, s/he can be given a warning and left
-  If the instance seems complicated, expert legal opinion should be saught (eg - involves interpretation of licences)
+  - If the content seems plagiarised beyond doubt, it should be permanently deleted from all websites
+  - If the submitter seems wilful, s/he should be added to a ban list
+  - If the instance seems to be a level-3, s/he can be given a warning and left
+  - If the instance seems complicated, expert legal opinion should be saught (eg - involves interpretation of licences)
 
 ### Ban list
 
@@ -52,10 +52,10 @@ events (related to PyCon India) for a period of **three** years.
 
 ### Privacy
 
-The names and contact details of complainants shall be kept private and confidential at all times.
-The names and contact details of authors who get investigated shall also be kept private at all times.
+- The names and contact details of complainants shall be kept private and confidential at all times.
+- The names and contact details of authors who get investigated shall also be kept private at all times.
 (despite the decision)
-The offender list shall also be lept private at all times.
+- The offender list shall also be lept private at all times.
 
 
 ## Open areas
