@@ -55,7 +55,7 @@ events (related to PyCon India) for a period of **three** years.
 - The names and contact details of complainants shall be kept private and confidential at all times.
 - The names and contact details of authors who get investigated shall also be kept private at all times.
 (despite the decision)
-- The offender list shall also be lept private at all times.
+- The ban list shall also be kept private at all times.
 
 
 ## Open areas
