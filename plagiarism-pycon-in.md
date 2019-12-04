@@ -63,5 +63,7 @@ events (related to PyCon India) for a period of **three** years.
 - Plagiarism education: for the community in general
 - Plagiarism education course: as a possible punishment for a Level-3 instance.
 
+## References:
 
+- IEEE: https://www.ieee.org/publications/rights/plagiarism/plagiarism-faq.html
 
